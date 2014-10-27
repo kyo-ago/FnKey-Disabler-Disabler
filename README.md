@@ -5,7 +5,7 @@ Disable "FnKey disable" site.
 
 Install
 -------
-[Enable right click](https://chrome.google.com/webstore/detail/enable-right-click/hhojmcideegachlhfgfdhailpfhgknjm)
+[FnKey Disabler Disabler](https://chrome.google.com/webstore/detail/ljaokgmankhedlipbopanppcgomibcmk)
 
 Test
 -------
